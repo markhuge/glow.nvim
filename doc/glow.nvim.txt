@@ -1,4 +1,4 @@
-*glow.nvim.txt*        For Neovim >= 0.8.0       Last change: 2023 December 23
+*glow.nvim.txt*         For Neovim >= 0.8.0         Last change: 2024 April 24
 
 ==============================================================================
 Table of Contents                                *glow.nvim-table-of-contents*
@@ -7,6 +7,7 @@ Table of Contents                                *glow.nvim-table-of-contents*
   - Installing                                          |glow.nvim-installing|
   - Setup                                                    |glow.nvim-setup|
   - Usage                                                    |glow.nvim-usage|
+1. Links                                                     |glow.nvim-links|
 
 
 https://user-images.githubusercontent.com/178641/215353259-eb8688fb-5600-4b95-89a2-0f286e3b6441.mp4
